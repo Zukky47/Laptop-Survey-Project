@@ -1,0 +1,1 @@
+Source = Excel.Workbook(File.Contents("C:\Users\Allsaint\Downloads\AZUKA\CASE STUDIES\LAPTOP REVIEW\laptop review.xlsx"), null, true),
